@@ -1,2 +1,2 @@
 # FS
-stduy jaemujaepyo
+study jaemujaepyo
